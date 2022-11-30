@@ -2,8 +2,9 @@
 ### Computer Engineering, RMUTL.💖
 'Welcome to my Profile Github.'
 
-## My social
-[FACEBOOK](https://www.facebook.com/thnmnss "Thanawut Manatsa")
+## social
+-[FACEBOOK](https://www.facebook.com/thnmnss "Thanawut Manatsa")
+-[INSTAGRAM](https://www.instagram.com/thnmns/ "thnmns")
 <!--
 **thanawut22/thanawut22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
