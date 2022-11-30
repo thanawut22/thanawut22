@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi I'm THANAWUT MANATSA  👋
+#### Computer Engineering, RMUTL
 
 <!--
 **thanawut22/thanawut22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
