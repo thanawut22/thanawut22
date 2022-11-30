@@ -4,7 +4,9 @@
 
 ## social
 -[FACEBOOK](https://www.facebook.com/thnmnss "Thanawut Manatsa")<br>
--[INSTAGRAM](https://www.instagram.com/thnmns/ "thnmns")
+-[INSTAGRAM](https://www.instagram.com/thnmns/ "thnmns")<br>
+-[INSTAGRAM](https://www.instagram.com/thnmns/ "กินข้าวยังจ๊ะ
+")
 <!--
 **thanawut22/thanawut22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
