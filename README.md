@@ -2,11 +2,10 @@
 ### Computer Engineering, RMUTL.💖
 'Welcome to my Profile Github.'
 
-## social
--[FACEBOOK](https://www.facebook.com/thnmnss "Thanawut Manatsa")<br>
--[INSTAGRAM](https://www.instagram.com/thnmns/ "thnmns")<br>
--[INSTAGRAM](https://www.instagram.com/thnmns/ "กินข้าวยังจ๊ะ
-")
+## Contact 📫
+✨-[FACEBOOK](https://www.facebook.com/thnmnss "Thanawut Manatsa")<br>
+✨-[INSTAGRAM](https://www.instagram.com/thnmns/ "thnmns")<br>
+✨-[LINE]([https://www.instagram.com/thnmns/](https://l.facebook.com/l.php?u=https%3A%2F%2Fline.me%2Fti%2Fp%2Fw_ogKIm_iS%3Ffbclid%3DIwAR2oZTSs_0g2gN8uuMxrSAH_8HZpaKwJ4kBPz95EPeA2NbvlqSCK4YyyjXQ&h=AT3CvYqXQUp-5x4Not6lXp6nIGyWZJvR4uqPdQ6zsE2dlgfNGOFIQbQAQYJN6RdPmezaJNXXeAJhWMemNGS4EuSsGaOOTc_xLxPsj7nxcEP4XEQwu8_vH-DV-yYIkwNjfDvjSQ) "กินข้าวยังจ๊ะ")
 <!--
 **thanawut22/thanawut22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
