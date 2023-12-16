@@ -6,6 +6,7 @@ My birthday 22 MAY, 2001 🎁 🎉<br>
 "Merry Christmas 🎅🎄🎁🔔"
 
 ## Contact 📫
+✨-[PHONE](0801206287)<br>
 ✨-[FACEBOOK](https://www.facebook.com/thnmnss "Thanawut Manatsa")<br>
 ✨-[INSTAGRAM](https://www.instagram.com/thnmns/ "thnmns")<br>
 
